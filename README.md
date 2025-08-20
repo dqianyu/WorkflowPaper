@@ -1,5 +1,5 @@
 # WorkflowPaper
-This repository contains data and reproducible report for "Toward a Principled Workflow for Prevalence Mapping Using Household Survey Data"
+This repository contains data and the reproducible report for "Toward a Principled Workflow for Prevalence Mapping Using Household Survey Data".
 
 ## Data
 
@@ -15,4 +15,4 @@ The covariate folder contains Admin-1 and Admin-2 covariates preprocessed from T
 
 TableA.csv contains census-based urban/rural population information used to calculate the urban/rural fraction of the targeted survey population across all provided administrative levels. 
 
-anc_data.csv contains preprocessed survey data with an anonymized cluster ID.
+anc_data.csv contains preprocessed survey data used in the reproducible report, with an anonymized cluster ID.
